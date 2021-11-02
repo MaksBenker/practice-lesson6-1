@@ -1,0 +1,214 @@
+/*&display=swap*/
+/*&subset=cyrillic-ext*/
+@import url("https://fonts.googleapis.com/css?family=Roboto:regular,700&display=swap&subset=cyrillic-ext");
+@import url(https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
+/*обнуление*/
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	box-sizing: border-box;
+}
+li {
+	list-style: none;
+}
+a,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+img {
+	vertical-align: top;
+}
+html,
+body {
+	height: 100%;
+}
+html {
+	font-size: 16px;
+}
+body {
+	line-height: 1;
+	font-family: "Roboto", sans-serif;
+}
+.wrapper {
+	overflow: hidden;
+	padding: 50px 0;
+}
+.whoweare {
+	padding: 0px 0px 170px 0px;
+}
+
+.whowearecont {
+	border: 1px solid black;
+	max-width: 1020px;
+	margin: 0px auto;
+	padding: 100px 87px 0px 87px;
+}
+
+.head {
+	margin: 0px 0px 28px 0px;
+	font-weight: bold;
+	font-size: 12px;
+	line-height: 27px;
+	letter-spacing: 2.5px;
+	text-transform: uppercase;
+	color: #4b4b4b;
+}
+
+.text {
+	margin: 28px 0px 36px 0px;
+	color: #02133c;
+	font-weight: 900;
+	font-size: 36px;
+	line-height: 42px;
+}
+
+.textbig {
+	margin: 0px 0px 54px 0px;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 24px;
+	letter-spacing: 0.15px;
+	color: #4b4b4b;
+}
+
+.img {
+	margin: 0px 0px -120px 0px;
+}
+
+.conteyner {
+	margin-left: 210px;
+}
+
+.block {
+	border: 1px solid black;
+	max-width: 324px;
+	padding: 50px 44px 50px 43px;
+	text-align: center;
+	margin-bottom: 24px;
+}
+.car {
+	padding: 0px 86px 33px 88px;
+}
+.title1 {
+	max-width: 237px;
+	font-weight: 900;
+	font-size: 19px;
+	line-height: 26px;
+	margin-bottom: 20px;
+	color: #02133c;
+}
+.par {
+	font-weight:400;
+	font-size: 16px;
+	line-height: 24px;
+	letter-spacing: 0.15px;
+	color: #4b4b4b;
+}
+
+.block2 {
+	border: 1px solid black;
+	max-width: 324px;
+	padding: 50px 44px 50px 43px;
+	text-align: center;
+	margin-bottom: 24px;
+}
+.koleso {
+	padding: 0px 86px 33px 88px;
+}
+.title2 {
+	max-width: 237px;
+	font-weight: 900;
+	font-size: 19px;
+	line-height: 26px;
+	margin-bottom: 20px;
+	color: #02133c;
+}
+.par2 {
+	font-weight:400;
+	font-size: 16px;
+	line-height: 24px;
+	letter-spacing: 0.15px;
+	color: #4b4b4b;
+}
+
+.verybigconteyner{
+	font-family: "Poppins" ,serif;
+	margin-left: 263px;
+}
+
+.bigtitle{
+	max-width: 1398px;
+	margin-bottom: 26px;
+	font-weight: 600;
+	font-size: 32px;
+	line-height: 48px;
+	color: #000000;
+
+
+}
+
+.notbigtitle{
+	width:866px;
+	font-weight: 600;
+	font-size: 24px;
+	line-height: 36px;
+	color:#000000;
+	margin-bottom: 19px;
+}
+
+.bigconteyner{
+	font-size: 16px;
+	line-height: 26px;
+	max-width: 1039px;
+}
+
+.smalltitle{
+font-weight: 600;
+padding: 37px 0px 37px 0px;
+}
+
+.textnew{
+font-size: 16px;
+}
+.textnew1{
+	padding-bottom: 37px ;
+}
+
+.bigcont{
+	margin:137px 0px 137px 263px ;
+}
+
+.star{
+margin-bottom: 9px;
+}
+
+.newtitle{
+width: 465px;
+font-weight: 500;
+font-size: 44px;
+line-height: 58px;
+color: #000000;
+margin-bottom: 25px;
+}
+
+.paragraf{
+width: 436px;
+font-weight: 300;
+font-size: 18px;
+line-height: 26px;
+}
